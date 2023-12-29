@@ -6,7 +6,7 @@
 
 -👯 I’m interested in learning about DevOps technology.
 
--📫 How to reach me: https://www.linkedin.com/in/](https://www.linkedin.com/in/john-maliha/?originalSubdomain=ca
+-📫 How to reach me: (https://www.linkedin.com/in/john-maliha/
 
 -⚡I love coding, AI,hardware and networking! 😃
 
