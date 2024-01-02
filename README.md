@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm John
 
-🔭 Computer engineer graduate specialized in AI form Polytechnique Montréal ✨
+🔭 Computer engineer graduate specialized in AI from Polytechnique Montréal ✨
 
 🌱 I’m currently learning aws cloud services and data engineering.
 
