@@ -14,4 +14,5 @@
 
  Join me in new projets
   
-⚡I am building an pc!
+⚡I build my PC
+https://ca.pcpartpicker.com/user/TheFlash_Caith/saved/#view=DZwGkL
