@@ -8,7 +8,7 @@
 
 📫 How to reach me: https://www.linkedin.com/in/john-maliha/
 
-⚡I love coding, AI,hardware and networking! 😃
+⚡I love coding, AI, hardware, networking and biomedical engineering! 😃
 
 💬 Ask me about anything about Python, Java, Javascript, Typescript, NodeJs, C/C++
 
