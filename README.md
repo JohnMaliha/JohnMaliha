@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm John
 
+## Take a look at my website! 
+
+-> https://johnmaliha.github.io/
+
 🔭 Computer engineer graduate specialized in data science and AI from Polytechnique Montréal ✨
 
 🌱 I’m currently learning aws cloud services and data engineering.
